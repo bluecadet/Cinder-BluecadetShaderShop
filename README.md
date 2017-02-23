@@ -12,7 +12,7 @@ cd Cinder-BluecadetShaderShop/
 
 ## Slides
 
-![Bluecadet Shader Lunch and Learn 2017.pdf](Bluecadet Shader Lunch and Learn 2017.pdf)
+[Bluecadet Shader Lunch and Learn 2017.pdf](https://github.com/bluecadet/Cinder-BluecadetShaderShop/raw/master/Bluecadet%20Shader%20Lunch%20and%20Learn%202017.pdf)
 
 ## Examples
 
